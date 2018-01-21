@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "start-storybook -p 4300 -s ./stories",
+    "start": "start-storybook -p 4300",
     "build": "build-storybook",
     "deploy": "node ./scripts/deploy.js"
   },
